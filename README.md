@@ -12,7 +12,7 @@ Clickable Cards: Users can click on a headline to open the full article in a new
 #Technologies Used
 HTML5: Structuring the content of the website.
 CSS3: For styling, including a responsive layout, hover effects, and modern UI design.
-JavaScript (ES6): Handles API call, dynamic rendering, and event handling.
+JavaScript (ES6): Handles API calls, dynamic rendering, and event handling.
 News API: Fetches real-time news articles.
 BeautifulSoup: For web scraping to get the data for online lookup (optional if you include this functionality).
 
